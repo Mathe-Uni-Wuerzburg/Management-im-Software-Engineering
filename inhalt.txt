@@ -1,0 +1,37 @@
+Teil 1:  
+- Fehlerkosten
+- Qualität(skosten)
+- Anforderungen
+- Prozess
+- Reifegradmodell (ISO 15504, CMM(I))
+- SPICE
+
+Teil 2: 
+- SPICE/ASPICE
+- Capability Levels
+- pa = process assessment
+- MAN, ACQ, ENG
+- PDCA
+- traceability
+- generic practices
+
+Teil 3: 
+- improvement 
+- stakeholders
+- use cases
+- process management
+- measurement
+- goal-driven measurement
+- assessments
+
+Teil 4: 
+- quality assurance, dimensions, team, planning, measures
+- review
+- reporting 
+
+Teil 5: 
+- failure factors
+- estimation
+- work breakdown structure
+- estimation methods
+- estimation advanced methods (FPA, Cocomo)
